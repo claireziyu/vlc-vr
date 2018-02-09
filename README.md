@@ -1,5 +1,7 @@
 
-# VLC-VR 
+# VLC-VR (abandoned)
+## This relies on an ancient release of the Oculus Rift SDK. see below
+## (All btc donations were forwarded to the official VLC project)
 
 This is a movie player based on libvlc that can render to the Oculus Rift on any platform supported by SDL2, OpenGL, and VLC (Linux, Windows, OSX).  It supports distortion rendering to planar, cylinder, and dome meshes and also renders side-by-side and over-under 3D formats.
 
